@@ -7,6 +7,16 @@ A Survey of Binary Code Similarity：https://arxiv.org/pdf/1909.11424.pdf
 
 https://users.encs.concordia.ca/~youssef/Publications/Papers/AsiaCCS2017.pdf
 
+多个二进制分析工具各项性能进行的分析与比较：https://zhuanlan.zhihu.com/p/87611894
+
+程序安全分析平台初探：IR 与应用。： https://zhuanlan.zhihu.com/p/127174468
+https://github.com/GoSSIP-SJTU
+自动化二进制文件分析框架：angr：  https://zhuanlan.zhihu.com/p/25192237
+
+
+
+
+
 # DeepBinDiff
 
 This is the official repository for DeepBinDiff, which is a fine-grained binary diffing tool for x86 binaries. We will actively update it.
