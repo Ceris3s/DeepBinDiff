@@ -1,6 +1,11 @@
 
 可参考：
 http://www.xderedu.com/2020/04/15/DEEPBINDIFF%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/
+https://www.zybuluo.com/SmashStack/note/726255
+
+A Survey of Binary Code Similarity：https://arxiv.org/pdf/1909.11424.pdf
+
+https://users.encs.concordia.ca/~youssef/Publications/Papers/AsiaCCS2017.pdf
 
 # DeepBinDiff
 
