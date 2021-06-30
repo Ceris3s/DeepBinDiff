@@ -1,3 +1,7 @@
+
+可参考：
+http://www.xderedu.com/2020/04/15/DEEPBINDIFF%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/
+
 # DeepBinDiff
 
 This is the official repository for DeepBinDiff, which is a fine-grained binary diffing tool for x86 binaries. We will actively update it.
